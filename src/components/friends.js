@@ -9,7 +9,7 @@ export default function Friends(props) {
             setDesc("Ponung is is calm and chill girl and Sir I am trying to know more about her")
         }
         else{
-            setText("Azad")
+            setText("Azad Kumar")
             setDesc("azad is a very good boy. He is helping in nature. he respects every deserving people and ignores bulsit people")
         }
     }
